@@ -1,6 +1,6 @@
 ### Hello, I'm Mohd Hasnain! 👋
 
-Welcome to my GitHub profile! I'm passionate about [your interests or field, e.g., software development, data science, open-source contributions], and I love working on projects that [something you enjoy, e.g., solve real-world problems, improve user experience, explore new technologies].
+Welcome to my GitHub profile! I'm passionate about data sciences, competitive programming and mathematics, and I love working on projects that challenges me.
 
 #### 🌟 About Me
 - **🌱 I’m currently learning:** Data Science with R programming
