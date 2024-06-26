@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Hasnain-3764
-- 👀 I’m interested in learning more and more.
-- 🌱 I’m currently learning CPP
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 Reach me at - https://twitter.com/md_hasnain3764
+🌟 About Me
+🌱 I’m currently learning: Data Science with R programming
+👯 I’m looking to collaborate on Data Driven Machine Learning Projects
+💬 Ask me about: C++ / OOPS / DSA / Python / R / Statistics / Linear Algebra / And More
+📫 How to reach me: hasnain23325@iiitd.ac.in / LinkedIn / Twitter
+⚡ Fun fact: I am the most boring man alive. 
 
 <!---
 Hasnain-3764/Hasnain-3764 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
