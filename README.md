@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about data sciences, competitive pr
 #### 🌟 About Me
 - **🌱 I’m currently learning:** Data Science with R programming
 - **👯 I’m looking to collaborate on:** Data Driven Machine Learning Projects
-- **💬 Ask me about:** C++ / OOPS / DSA / Python / R / Statistics / Linear Algebra / And More
+- **💬 Ask me about:** DSA(C++) / OOPS(JAVA) / Python / R / C / Statistics / Linear Algebra / And More
 - **📫 How to reach me:** hasnain23325@iiitd.ac.in / [LinkedIn](https://www.linkedin.com/in/hasnain3764/) 
 - **⚡ Fun fact:** I can recite entire periodic table without pausing.
 
