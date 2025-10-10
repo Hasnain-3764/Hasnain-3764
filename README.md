@@ -59,7 +59,8 @@ Advanced Programming, Database Management Systems, Algorithm Design and Analysis
 - **LinkedIn:** [linkedin.com/in/hasnain3764](https://linkedin.com/in/hasnain3764)  
 - **Codeforces:** [https://codeforces.com/profile/hassu](https://codeforces.com/profile/hassu)  
 - **LeetCode:** [https://leetcode.com/u/hasnain23325/](https://leetcode.com/u/hasnain23325/)  
-- **Twitter:** [https://x.com/haploidzygote](https://x.com/haploidzygote)  
+- **Twitter:** [https://x.com/haploidzygote](https://x.com/haploidzygote)
+- You can download my resume from [here](./Resume_.pdf).
 
 ---
 
